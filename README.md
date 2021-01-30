@@ -35,40 +35,40 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 
 
 **RAM**
-- Ram is my main topic I guess, because I really like how it works, how it behaves and everything.
-    - Try not to get RGB, some of the top rams will have rgb because of marketting stuff, but still you can almost always find an alternative.
-    - Try to get good bin b-die so that you can daily 1.5-1.6 easily, if you remove the heatsinks and put a fan on ram, you can go around 1.7-1.8V.
-    - Try to get a2 layout as its latency is the lowest. A0 - 27.6, A1 - 19.73, A2 - 13.13, A3 - 13.67
-    - Try to get dual rank if your motherboard is good enough, which will be 2x16 rams right now. They are going to give you around 14% better results then single ranks all other things same.
-    - For dual rank: 3600 14-15-15 1.45v, 3200 14-14-14 1.35 are the ones I have tested and performed really well.
-    - For single rank: The one I can suggest most is gskill 3600 15-15-15 1.35V, It has really great OC potential, right now I am using this kit 4100-15-15 cr1
-    - Use cr1
-    - Max tREFI
-    - Min tRFC
-    - tRCD is a lot more important than tCL
-    - try to lower iols to 3-5, and they should be max 1 point different than other one. 
-    - tRTP = tWR, this is not for latency but the stability and mouse feeling.
-    - remove your spreaders 
-        - https://streamable.com/lmczh0 - strip front side 
-        - https://streamable.com/vo9l2z - strip back side 
-    - After every single ram value change please test it, because it might now give error in a long time, but if there is a correction it will reduce the performance. Also if you change a value, but the tests are not that effected then it means there is a problem.
-    - Only test with intel mmemory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin.
-    - Testing for only 1 day will not be enough, try OCCT sse 1 night, OCCT avx 1 night, Anta55 1 night, then if you have Karhu 1 night, then you can say it is fine.
+Ram is my main topic I guess, because I really like how it works, how it behaves and everything.
+- Try not to get RGB, some of the top rams will have rgb because of marketting stuff, but still you can almost always find an alternative.
+- Try to get good bin b-die so that you can daily 1.5-1.6 easily, if you remove the heatsinks and put a fan on ram, you can go around 1.7-1.8V.
+- Try to get a2 layout as its latency is the lowest. A0 - 27.6, A1 - 19.73, A2 - 13.13, A3 - 13.67
+- Try to get dual rank if your motherboard is good enough, which will be 2x16 rams right now. They are going to give you around 14% better results then single ranks all other things same.
+- For dual rank: 3600 14-15-15 1.45v, 3200 14-14-14 1.35 are the ones I have tested and performed really well.
+- For single rank: The one I can suggest most is gskill 3600 15-15-15 1.35V, It has really great OC potential, right now I am using this kit 4100-15-15 cr1
+- Use cr1
+- Max tREFI
+- Min tRFC
+- tRCD is a lot more important than tCL
+- try to lower iols to 3-5, and they should be max 1 point different than other one. 
+- tRTP = tWR, this is not for latency but the stability and mouse feeling.
+- remove your spreaders 
+  - https://streamable.com/lmczh0 - strip front side 
+  - https://streamable.com/vo9l2z - strip back side 
+- After every single ram value change please test it, because it might now give error in a long time, but if there is a correction it will reduce the performance. Also if you change a value, but the tests are not that effected then it means there is a problem.
+- Only test with intel mmemory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin.
+- Testing for only 1 day will not be enough, try OCCT sse 1 night, OCCT avx 1 night, Anta55 1 night, then if you have Karhu 1 night, then you can say it is fine.
 	
 **Mouse**
-    - https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
-    - Avoid wireless because of the interference. EMF, 4G, 5G, also wired has lower input latency.
-    - Try to use 1600 dpi. The idea is to use highest dpi without smoothing, it will ve better latency and smoother mouse movement.
+- https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
+- Avoid wireless because of the interference. EMF, 4G, 5G, also wired has lower input latency.
+- Try to use 1600 dpi. The idea is to use highest dpi without smoothing, it will ve better latency and smoother mouse movement.
     
 **Monitor**
-    - Because buying please check its input latency tests and try to get the most hz, lowest latency monitor. https://www.rtings.com/monitor/tools/table
-    - Try to limit fps in game, and check for the feeling, some games benefit from fps limit some dont. For example CSGO is worse with fps locked. Quake champions give worse latency with FPS locked.
+- Because buying please check its input latency tests and try to get the most hz, lowest latency monitor. https://www.rtings.com/monitor/tools/table
+- Try to limit fps in game, and check for the feeling, some games benefit from fps limit some dont. For example CSGO is worse with fps locked. Quake champions give worse latency with FPS locked.
     
 **OS**
-    - Try to use Windows 7, even stock Win7 is a lot better than optimized windows 10.
-    - Install it as MBR
-    - Use Ntlite to debloat defender + bitlocker + superfetch
-    - If you really need windows 10, try to make dual boot.
+- Use Windows 7, even stock Win7 is a lot better than optimized windows 10.
+- Install it as MBR
+- Use Ntlite to debloat defender + bitlocker + superfetch
+- If you really need windows 10, try to make dual boot.
 
 **Programs**
 
