@@ -72,13 +72,13 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 
 **Programs**
 
-MLC: https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip
-MouseTester: https://cdn.discordapp.com/attachments/784503582716198912/784507149535281182/Mouse_Polling_Test.zip
-Linlack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/
-Ram testing with extreme@anta777 config: https://cdn.discordapp.com/attachments/653171331256549386/742827513218334861/TM5_extremeanta777.zip
-OCCT: https://www.ocbase.com/
-Karhu Ram test: https://www.karhusoftware.com/ramtest/
-Ntlite: https://www.ntlite.com/
+- MLC: https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip
+- MouseTester: https://cdn.discordapp.com/attachments/784503582716198912/784507149535281182/Mouse_Polling_Test.zip
+- Linlack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/
+- Ram testing with extreme@anta777 config: https://cdn.discordapp.com/attachments/653171331256549386/742827513218334861/TM5_extremeanta777.zip
+- OCCT: https://www.ocbase.com/
+- Karhu Ram test: https://www.karhusoftware.com/ramtest/
+- Ntlite: https://www.ntlite.com/
 
 
 **Best to read and follow!**
