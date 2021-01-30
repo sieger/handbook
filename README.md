@@ -98,7 +98,8 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 
 Tweaked/oced bios vs default xmp one
 
-![fps](/images/fps.PNG) ![tests](/images/tesats.png) 
+![fps](/images/fps.PNG)
 ![base](/images/mice.png) ![tweaked](/images/micetweaked.png)
+![tests](/images/tesats.png) 
 
 
