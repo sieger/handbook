@@ -49,8 +49,8 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
     - try to lower iols to 3-5, and they should be max 1 point different than other one. 
     - tRTP = tWR, this is not for latency but the stability and mouse feeling.
     - remove your spreaders 
-        https://streamable.com/lmczh0 - strip front side 
-        https://streamable.com/vo9l2z - strip back side 
+        - https://streamable.com/lmczh0 - strip front side 
+        - https://streamable.com/vo9l2z - strip back side 
     - After every single ram value change please test it, because it might now give error in a long time, but if there is a correction it will reduce the performance. Also if you change a value, but the tests are not that effected then it means there is a problem.
     - Only test with intel mmemory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin.
     - Testing for only 1 day will not be enough, try OCCT sse 1 night, OCCT avx 1 night, Anta55 1 night, then if you have Karhu 1 night, then you can say it is fine.
