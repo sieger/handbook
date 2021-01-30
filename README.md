@@ -3,7 +3,7 @@
 
 - Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 30 ping, it will be consistant and better. 
 
-- I am not and will never be a tweaker, do not ask, I just love learnd and try these little things that are matter.
+- I am not and will never be a tweaker, do not ask, I just love to learn and try these little things that are matter.
 
 So here, I will try to give you some information and some sources, sources from my friends to get you started to the journey. And I will try not to comment on anything I havent tried / tested, so feel free to ask further questions.
 
