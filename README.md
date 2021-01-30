@@ -93,3 +93,12 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 - https://github.com/djdallmann/GamingPCSetup Mostly windows 10 focused, OS optimization by timecard
 - https://github.com/BoringBoredom/PC-Optimization-Hub Great all around source for you to read by Bored
 - https://github.com/integralfx/MemTestHelper/blob/master/DDR4%20OC%20Guide.md Detailed and really easy step by step Ram OC guide by Integralfx
+
+**Some Proof**
+
+Tweaked/oced bios vs default xmp one
+
+![fps](/images/fps.PNG) ![tests](/images/tesats.png) 
+![base](/images/mice.png) ![tweaked](/images/micetweaked.png)
+
+
