@@ -1,5 +1,5 @@
-**Why you want to get the lowest latency**
-- afps is one of the game types you want to have fastest reaction time, as just in couple of seconds everything can change, you can loose map control,  you can loose one of the main items, and you might loose the game. So having even a slightest advantage will give you an edge.
+# Why you want to get the lowest latency #
+- Afps is one of the game types you want to have fastest reaction time, as just in couple of seconds everything can change, you can loose map control,  you can loose one of the main items, and you might loose the game. So having even a slightest advantage will give you an edge.
 
 - Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 30 ping, it will be consistant and better. 
 
@@ -39,9 +39,8 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
     - Try to get a2 layout as its latency is the lowest. A0 - 27.6, A1 - 19.73, A2 - 13.13, A3 - 13.67
     - Try to get dual rank if your motherboard is good enough, which will be 2x16 rams right now. They are going to give you around 14% better results then single ranks all other things same.
     - For dual rank: 3600 14-15-15 1.45v, 3200 14-14-14 1.35 are the ones I have tested and performed really well.
-    - For single rank:
-        - The one I can suggest most is gskill 3600 15-15-15 1.35V, It has really great OC potential, right now I am using this kit 4100-15-15 cr1
-    - With rams try to use cr1
+    - For single rank: The one I can suggest most is gskill 3600 15-15-15 1.35V, It has really great OC potential, right now I am using this kit 4100-15-15 cr1
+    - Use cr1
     - Max tREFI
     - Min tRFC
     - tRCD is a lot more important than tCL
