@@ -1,5 +1,5 @@
 # Why you want to get the lowest latency #
-- Afps is one of the game types you want to have fastest reaction time, as just in couple of seconds everything can change, you can loose map control,  you can loose one of the main items, and you might loose the game. So having even a slightest advantage will give you an edge.
+- AFPS is one of the game types you want to have fastest reaction time, as just in couple of seconds everything can change, you can loose map control,  you can loose one of the main items, and even you might loose the game. So having even a slightest advantage will give you an edge.
 
 - Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 30 ping, it will be consistant and better. 
 
@@ -17,7 +17,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 
 **CPU**
 - If you are going to play games, **intel** is the way. Try to get best intel possible with non disabled core. For example 10850k is failed 10900k, 10700k is really failed 10900k and 2 of its cores are disabled which will cause latency as well.
-- If you are rendering / modelling stuff, then you but the highest core number possible, which will be AMD these days. But this is not our focus, so I will not talk about it again.
+- If you are rendering / modelling stuff, then you buy the highest core number possible, which will be AMD these days. But this is not our focus, so I will not talk about it again.
 - Uncore = Core.
 - Disable all power saving features
 - Flat llc for lowest delay
