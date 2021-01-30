@@ -100,6 +100,3 @@ Tweaked/oced bios vs default xmp one
 
 ![fps](/images/fps.PNG)
 ![base](/images/mice.png) ![tweaked](/images/micetweaked.png)
-![tests](/images/tesats.png) 
-
-
