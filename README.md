@@ -52,7 +52,7 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
   - https://streamable.com/lmczh0 - strip front side 
   - https://streamable.com/vo9l2z - strip back side 
 - After every single ram value change please test it, because it might now give error in a long time, but if there is a correction it will reduce the performance. Also if you change a value, but the tests are not that effected then it means there is a problem.
-- Only test with intel mmemory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin.
+- Only test with intel memory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin.
 - Testing for only 1 day will not be enough, try OCCT sse 1 night, OCCT avx 1 night, Anta55 1 night, then if you have Karhu 1 night, then you can say it is fine.
 	
 **Mouse**
