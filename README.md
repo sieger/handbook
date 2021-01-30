@@ -7,7 +7,7 @@
 
 So here, I will try to give you some information and some sources, sources from my friends to get you started to the journey. And I will try not to comment on anything I havent tried / tested, so feel free to ask further questions.
 
-https://twitter.com/siegerql my twitter
+https://twitter.com/siegerQL my twitter
 
 **Why latency matters?**
 
