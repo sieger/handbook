@@ -58,7 +58,7 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 **Mouse**
 - https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
 - Avoid wireless because of the interference. EMF, 4G, 5G, also wired has lower input latency.
-- Try to use 1600 dpi. The idea is to use highest dpi without smoothing, it will ve better latency and smoother mouse movement.
+- Try to use 1600 dpi. The idea is to use highest dpi without smoothing, it will have better latency and smoother mouse movement.
     
 **Monitor**
 - Because buying please check its input latency tests and try to get the most hz, lowest latency monitor. https://www.rtings.com/monitor/tools/table
