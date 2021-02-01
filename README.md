@@ -1,6 +1,8 @@
 # Why you want to get the lowest latency #
 - AFPS is one of the game types you want to have fastest reaction time, as just in couple of seconds everything can change, you can loose map control,  you can loose one of the main items, and even you might loose the game. So having even a slightest advantage will give you an edge.
 
+- Forget games, why would you want a computer has a delay?
+
 - Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 30 ping, it will be consistant and better. 
 
 - I am not and will never be a tweaker, do not ask, I just love to learn and try these little things that are matter.
@@ -9,7 +11,7 @@ So here, I will try to give you some information and some sources, sources from 
 
 https://twitter.com/siegerQL my twitter
 
-**Why latency matters?**
+**Why latency matters, can you even feel it?**
 
 When people say you cannot feel couple of ms, it is like smaller than a second, you show them this.  And this is only a video, you will feel a lot better. https://www.youtube.com/watch?t=80&v=vOvQCPLkPt4 
 
@@ -20,7 +22,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - If you are rendering / modelling stuff, then you buy the highest core number possible, which will be AMD these days. But this is not our focus, so I will not talk about it again.
 - Uncore = Core.
 - Disable all power saving features
-- Flat llc for lowest delay
+- Flat llc for lowest delay - aim for smallest delta.
 - Try not to leave anything auto
 - Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees.
 - Check temps in game, should be max 60, after that intel hinders the performance
@@ -57,6 +59,7 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 	
 **Mouse**
 - https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
+- Yes you can feel the difference between 1000hz and 8000hz. It is not beyong human eye capabilities. If you think it is, go and try. Same peope argued people cannot feel the difference between 120hz and 240hz, they even argued 60hz vs 120hz. There will always be these people.
 - Avoid wireless because of the interference. EMF, 4G, 5G, also wired has lower input latency.
 - Try to use 1600 dpi. The idea is to use highest dpi without smoothing, it will have better latency and smoother mouse movement.
     
