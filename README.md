@@ -33,17 +33,17 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Most poeple just get the cheapest motherboard they can get, no, get the best motherboard you can get. Most probably you will want to use 2 dimm motherboard, they have much stronger VRMs, you can check it from https://docs.google.com/spreadsheets/d/16YJm4L1-ohpL8s-4rLDDDCBZvi97ZYwkc44s7LS5-2Q/here. You should try to get the most PCB layer possible. Examples can be Asus Apex and EVGA Dark series. EVGA has the best quality pieces and really good OC capacity, but it has spread spectrum forced which will give you jitter. We are trying to get at least and option from EVGa to disable it at least in z590 board, but we will see. If we can do that, it would be one of the best motherboard available.
 - Try to use grub to change hidden values.
 - Use zipties and fans over VRM, Ram, PCH. 
-- Try to use liquid coollers because aim fans will be too big for you to put more fans over the important parts of the motherboard.
+- Try to use liquid coollers because air fans will be too big for you to put more fans over the important parts of the motherboard, besides 360aios will give better results.
 
 
 **RAM**
 Ram is my main topic I guess, because I really like how it works, how it behaves and everything.
 - Try not to get RGB, some of the top rams will have rgb because of marketting stuff, but still you can almost always find an alternative.
 - Try to get good bin b-die so that you can daily 1.5-1.6 easily, if you remove the heatsinks and put a fan on ram, you can go around 1.7-1.8V.
-- Try to get a2 layout as its latency is the lowest. A0 - 27.6, A1 - 19.73, A2 - 13.13, A3 - 13.67
-- Try to get dual rank if your motherboard is good enough, which will be 2x16 rams right now. They are going to give you around 14% better results then single ranks all other things same.
-- For dual rank: 3600 14-15-15 1.45v, 3200 14-14-14 1.35 are the ones I have tested and performed really well.
-- For single rank: The one I can suggest most is gskill 3600 15-15-15 1.35V, It has really great OC potential, right now I am using this kit 4100-15-15 cr1
+- Try to get a2 layout as its latency is the lowest. **A0** - 27.6, **A**1 - 19.73, **A2** - 13.13, **A3** - 13.67
+- Try to get dual rank if your motherboard is good enough, which will be 2x16 rams right now. They are going to give you around 14% better results than single ranks with all other things same.
+- For dual rank: **3600 14-15-15 1.45v**, **3200 14-14-14 1.3**5 are the ones I have tested and performed really well.
+- For single rank: The one I can suggest most is **gskill 3600 15-15-15 1.35V**, It has really great OC potential, right now I am using this kit 4100-15-15 cr1
 - Use cr1
 - Max tREFI
 - Min tRFC
@@ -74,7 +74,6 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 - If you really need windows 10, try to make dual boot.
 
 **Programs**
-
 - Overclock your mice: https://github.com/LordOfMice/hidusbf
 - MLC: https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip
 - MouseTester: https://cdn.discordapp.com/attachments/784503582716198912/784507149535281182/Mouse_Polling_Test.zip
@@ -83,7 +82,6 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 - OCCT: https://www.ocbase.com/
 - Karhu Ram test: https://www.karhusoftware.com/ramtest/
 - Ntlite: https://www.ntlite.com/
-
 
 **Best to read and follow!**
 - https://github.com/sieger/handbook this handbook
