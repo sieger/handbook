@@ -9,8 +9,6 @@
 
 So here, I will try to give you some information and some sources, sources from my friends to get you started to the journey. And I will try not to comment on anything I havent tried / tested, so feel free to ask further questions.
 
-https://twitter.com/siegerQL my twitter
-
 **Why latency matters, can you even feel it?**
 
 When people say you cannot feel couple of ms, it is like smaller than a second, you show them this.  And this is only a video, you will feel a lot better. https://www.youtube.com/watch?t=80&v=vOvQCPLkPt4 
@@ -85,6 +83,7 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 - Ntlite: https://www.ntlite.com/
 
 **Best to read and follow!**
+- https://twitter.com/siegerQL my twitter
 - https://github.com/sieger/handbook this handbook
 - https://i.imgur.com/pFxxbt9.png why Ram is important
 - https://github.com/NVIDIA/Reflex-Latency-Analyzer-Mouse-Database/blob/main/NVIDIA%20RLA%20Mice%20Database%20-%20Github.csv - Nvidia click latency database
