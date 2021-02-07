@@ -72,6 +72,13 @@ Ram is my main topic I guess, because I really like how it works, how it behaves
 - Use Ntlite to debloat defender + bitlocker + superfetch
 - If you really need windows 10, try to make dual boot.
 
+**Mini Games**
+- https://donttap.github.io/donttap/
+- https://dphdmn.github.io/ballsheet/
+- https://qqwref.github.io/schulte/
+- https://schulte-table.com/
+- http://www.aimbooster.com/
+
 **Programs**
 - Overclock your mice: https://github.com/LordOfMice/hidusbf
 - MLC: https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip
