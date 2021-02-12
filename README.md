@@ -99,14 +99,11 @@ CPU:
 
 **Best to read and follow!**
 - [my twitter](https://twitter.com/siegerQL)  
-- [why Ram is important](https://i.imgur.com/pFxxbt9.png) 
+- [!!why Ram is important!!](https://i.imgur.com/pFxxbt9.png) 
 - [Calypto's Latency Guide](https://www.calypto.us/) 
-- [Great all around source for you to read by Bored](https://github.com/BoringBoredom/PC-Optimization-Hub) 
-- [Overclock your GPU right way by Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/edit)  
+- [Great sources by Bored](https://github.com/BoringBoredom/PC-Optimization-Hub) 
+- [GPU overclock y Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/edit)  
 - [OS optimization by timecard](https://github.com/djdallmann/GamingPCSetup)  
-- [Nvidia click latency database](https://github.com/NVIDIA/Reflex-Latency-Analyzer-Mouse-Database/blob/main/NVIDIA%20RLA%20Mice%20Database%20-%20Github.csv) 
-- [Ram Leakage](https://www.pdl.cmu.edu/PDL-FTP/NVM/chargecache_low-latency-dram_hpca16.pdf) 
-- [Blurbusters](https://forums.blurbusters.com/viewforum.php?f=10&sid=fee291b005b0500ccd746e1783d13f0a)
 - [Importanjce of Ram oc by Kingfaris](https://kingfaris.co.uk/ram)  
 - [Ram OC guide by Integralfx](https://github.com/integralfx/MemTestHelper/blob/master/DDR4%20OC%20Guide.md)
 
