@@ -85,12 +85,13 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - MouseTester: https://cdn.discordapp.com/attachments/784503582716198912/784507149535281182/Mouse_Polling_Test.zip
 - Ntlite: https://www.ntlite.com/
 - Overclock mice: https://github.com/LordOfMice/hidusbf
+- Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer, settings: https://raw.githubusercontent.com/BoringBoredom/PC-Optimization-Hub/main/content/windows/process%20explorer%20settings.reg
 
 **Stress Testing**
 
 RAM:
 - Karhu: https://www.karhusoftware.com/ramtest/
-- TM5: https://testmem.tz.ru/testmem5.htm  extreme@anta777 config
+- TM5: https://testmem.tz.ru/testmem5.htm  extreme@anta777 config https://bit.ly/2MUvl6n
 - HCI: https://hcidesign.com/memtest/ MemTestHelper
 - Prime95 Large FFTs: https://www.mersenne.org/download/
 - MemTest86 (preliminary): https://www.memtest86.com/
