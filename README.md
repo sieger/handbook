@@ -3,7 +3,7 @@
 
 - Forget the games, why would you want a computer has a delay, why would you want to have a computer has bottlenecks?
 
-- Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 30 ping, it will be consistant and better. 
+- Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 30 ping, it will be consistant and better. It is mostly about consistency, none of these will make you a pro, but you will have consistent environment to play at your best.
 
 - I am not and will never be a tweaker, do not ask, I just love to learn and try these little things that are matter. 
 
@@ -44,6 +44,8 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Use cr1
 - Max tREFI
 - Min tRFC
+- (tCL+tRCD + tRP) = tRAS (+/-1) credits to Vdam
+- TFAW=TRRD+TWTR+TCWL+TRTP) credits to Vdam
 - tRC/tRCD/tRAS/tRP is a lot more important than tCL
 - try to lower iols to 3-5, and they should be max 1 point different than other one. 
 - tRTP = tWR, this is not for latency but the stability and mouse feeling.
@@ -104,7 +106,7 @@ CPU:
 - [Great sources by Bored](https://github.com/BoringBoredom/PC-Optimization-Hub) 
 - [GPU overclock y Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/edit)  
 - [OS optimization by timecard](https://github.com/djdallmann/GamingPCSetup)  
-- [Importanjce of Ram oc by Kingfaris](https://kingfaris.co.uk/ram)  
+- [Importance of Ram oc by Kingfaris](https://kingfaris.co.uk/ram)  
 - [Ram OC guide by Integralfx](https://github.com/integralfx/MemTestHelper/blob/master/DDR4%20OC%20Guide.md)
 
 **Some Proof**
