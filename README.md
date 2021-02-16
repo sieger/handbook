@@ -114,5 +114,6 @@ CPU:
 
 Tweaked/oced bios vs default xmp one
 
+![fpsqc](/images/QCFPS.PNG)
 ![fps](/images/fps.PNG)
 ![base](/images/mice.png) ![tweaked](/images/micetweaked.png)
