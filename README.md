@@ -107,7 +107,7 @@ CPU:
 - [Great sources by Bored](https://github.com/BoringBoredom/PC-Optimization-Hub) 
 - [GPU overclock y Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/edit)  
 - [OS optimization by timecard](https://github.com/djdallmann/GamingPCSetup)  
-- [Felipe's tweaking discord] (https://discord.gg/F6WBqRHqgs)
+- [Felipe's tweaking discord](https://discord.gg/F6WBqRHqgs)
 - [Importance of Ram oc by Kingfaris](https://kingfaris.co.uk/ram)  
 - [Ram OC guide by Integralfx](https://github.com/integralfx/MemTestHelper/blob/master/DDR4%20OC%20Guide.md)
 
