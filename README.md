@@ -44,15 +44,15 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Use cr1
 - Max tREFI
 - Min tRFC
-- tRC/tRCD/tRAS/tRP is a lot more important than tCL - Credits to Λdam
-- try to lower iols to 3-5, and they should be max 1 point different than other one. 
-- tRTP = tWR, this is not for latency but the stability and mouse feeling.
+- tRCD is a lot more important than tCL - Credits to Λdam
+- try to lower iols to 3-5, and they should be max 1 point different than other one. In some cases they might be only at 6, it is fine.
+- tRTP = tWR, this is not for latency but the stability and mouse feeling. This needs to be tested as tWR actually doesnt really exist.
 - remove your spreaders 
   - [strip front side](https://streamable.com/lmczh0)
   - [strip back side](https://streamable.com/vo9l2z)
 - After every single ram value change test it, because it might now give error in a long time, but if there is a correction it will reduce the performance. Also if you change a value, but the tests are not that effected then it means there is a problem.
-- After going into windows, *MemTest86* to do your preliminary tests. Because having unstable ram might corrupt your OS.
-- Only test with intel memory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin. Do not use aida for ram tests.
+- Before going into windows, *MemTest86* to do your preliminary tests. Because having unstable ram might corrupt your OS.
+- Only test with intel memory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin. Do not use aida for ram tests. It is like using idle latency in mlc.
 - Testing for only 1 day will not be enough, Try different programs overnight for couple of days. After all tests are done you can say it is safe to run these numbers.
 	
 **Mouse**
@@ -90,12 +90,12 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 RAM:
 - Karhu: https://www.karhusoftware.com/ramtest/
 - TM5: https://testmem.tz.ru/testmem5.htm  extreme@anta777 config https://bit.ly/2MUvl6n
-- HCI: https://hcidesign.com/memtest/ MemTestHelper
+- HCI: https://hcidesign.com/memtest/ 
 - Prime95 Large FFTs: https://www.mersenne.org/download/
-- MemTest86 (preliminary): https://www.memtest86.com/
+- MemTest86 (before going into windows): https://www.memtest86.com/
 
 CPU:
-- Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/
+- Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/ mostly the only one you will ever need.
 - Prime95 Small FFTs: https://www.mersenne.org/download/
 
 **Best to read and follow!**
