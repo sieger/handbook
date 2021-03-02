@@ -111,9 +111,9 @@ CPU:
 
 **Some Proof**
 
+1N vs 2N and how it works.
+![1Nvs2N](/images/1N.png)
 Tweaked/oced bios vs default xmp one
-
-![1Nvs2N](/images/1N.PNG)
 ![fpsqc](/images/QCFPS.PNG)
 ![fps](/images/fps.PNG)
 ![base](/images/mice.png) ![tweaked](/images/micetweaked.png)
