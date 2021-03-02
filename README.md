@@ -44,7 +44,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Use cr1
 - Max tREFI
 - Min tRFC
-- tRC/tRCD/tRAS/tRP is a lot more important than tCL
+- tRC/tRCD/tRAS/tRP is a lot more important than tCL - Credits to Λdam
 - try to lower iols to 3-5, and they should be max 1 point different than other one. 
 - tRTP = tWR, this is not for latency but the stability and mouse feeling.
 - remove your spreaders 
