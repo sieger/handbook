@@ -44,7 +44,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Use cr1
 - Max tREFI
 - Min tRFC
-- tRCD is a lot more important than tCL - Credits to Λdam
+- tRCD is a lot more important than tCL 
 - try to lower iols to 3-5, and they should be max 1 point different than other one. In some cases they might be only at 6, it is fine.
 - tRTP = tWR, this is not for latency but the stability and mouse feeling. This needs to be tested as tWR actually doesnt really exist.
 - remove your spreaders 
@@ -54,6 +54,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Before going into windows, *MemTest86* to do your preliminary tests. Because having unstable ram might corrupt your OS.
 - Only test with intel memory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin. Do not use aida for ram tests. It is like using idle latency in mlc.
 - Testing for only 1 day will not be enough, Try different programs overnight for couple of days. After all tests are done you can say it is safe to run these numbers.
+- Λdam wanted to be credited, as he thinks he invented these timings and tests and tons of other stuff. So yeah if you somehow break your pc, its him. Also he once said use windows 7, so if you ever tell  this to anyone you have to credit him.
 	
 **Mouse**
 - https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
@@ -99,6 +100,7 @@ CPU:
 - Prime95 Small FFTs: https://www.mersenne.org/download/
 
 **Best to read and follow!**
+- Credits to tons of info from LAG server, Onur Mutlu lectures, bunch of science papers. 
 - [my twitter](https://twitter.com/siegerQL)  
 - [!!why Ram is important!!](https://i.imgur.com/pFxxbt9.png) 
 - [Calypto's Latency Guide](https://www.calypto.us/) 
