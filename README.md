@@ -45,7 +45,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Max tREFI
 - Min tRFC
 - tRCD is a lot more important than tCL 
-- try to lower iols to 3-5, and they should be max 1 point different than other one. In some cases they might be only at 6, it is fine.
+- try to lower iols to 3-5, and they should be max 1 point different than other one. In some cases they might be only at 6, it is fine. And use as high RTLs as possible without them iols wont matter much.
 - tRTP = tWR, this is not for latency but the stability and mouse feeling. This needs to be tested as tWR actually doesnt really exist.
 - remove your spreaders 
   - [strip front side](https://streamable.com/lmczh0)
@@ -54,7 +54,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Before going into windows, *MemTest86* to do your preliminary tests. Because having unstable ram might corrupt your OS.
 - Only test with intel memory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin. Do not use aida for ram tests. It is like using idle latency in mlc.
 - Testing for only 1 day will not be enough, Try different programs overnight for couple of days. After all tests are done you can say it is safe to run these numbers.
-- Λdam wanted to be credited, as he thinks he invented these timings and tests and tons of other stuff. So yeah if you somehow break your pc, its him. Also he once said use windows 7, so if you ever tell  this to anyone you have to credit him.
+- Λdam wanted to be credited, as he thinks he invented these timings and tests and tons of other stuff. So yeah if you somehow break your pc, its him. Also he once said use windows 7, so if you ever tell  this to anyone you have to credit him. Also of course I would like to give credit to jedec as well as they provide us the pdf with the information.
 	
 **Mouse**
 - https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
