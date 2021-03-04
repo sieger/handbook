@@ -7,7 +7,7 @@
 - 3600c14-15-15 1.45V 2x16 dr
 - Corsair ax1600i psu
 - FURMAN AC-210A e power conditioner
-- 980 pro 2TB
+- 970 pro 1TB
 - 360hz asus monitor
 - 1080ti 
 
