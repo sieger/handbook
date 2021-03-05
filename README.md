@@ -16,7 +16,7 @@ When people say you cannot feel couple of ms, it is like smaller than a second, 
 Here is a study by nvidia about the corrolation between latency and aim : https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/#why-does-system-latency-matter
 
 **CPU**
-- If you are going to play games, **intel** is the way. Try to get best intel possible with non disabled core. For example 10850k is failed 10900k, 10700k is really failed 10900k and 2 of its cores are disabled which will cause latency as well.
+- If you are going to play games, **intel** is the way. Try to get best intel possible with non disabled core. For example 10850k is failed 10900k, 10700k is lower binned 10900k and 2 of its cores are disabled which will cause latency as well.
 - If you are rendering / modelling stuff, then you buy the highest core number possible, which will be AMD these days. But this is not our focus, so I will not talk about it again.
 - Uncore = Core
 - Disable all power saving features
