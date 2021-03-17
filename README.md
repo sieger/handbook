@@ -35,6 +35,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 
 
 **RAM**
+- Thanks Λdam for becoming the source of inspiration and his notes. Some of these are directly from him, but all of them are tested by me and my friends as well.
 - Try not to get RGB, some of the top rams will have rgb because of marketting stuff, but still you can almost always find an alternatives. It will add heat and latency.
 - Try to get good bin b-die so that you can daily 1.5-1.6 easily, if you remove the heatsinks and put a fan on ram, you can go around 1.7-1.8V. The best bet is to get 14cm 3000 rpm noctua fans, use some zipties to fit the fan over rams.
 - Try to get a2 layout as its latency is the lowest. **A0** - 27.6, **A**1 - 19.73, **A2** - 13.13, **A3** - 13.67
@@ -54,7 +55,6 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Before going into windows, *MemTest86* to do your preliminary tests. Because having unstable ram might corrupt your OS.
 - Only test with intel memory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin. Do not use aida for ram tests. It is like using idle latency in mlc.
 - Testing for only 1 day will not be enough, Try different programs overnight for couple of days. After all tests are done you can say it is safe to run these numbers.
-- Λdam wanted to be credited, as he thinks he invented these timings and tests and tons of other stuff. So yeah if you somehow break your pc, its him. Also he once said use windows 7, so if you ever tell  this to anyone you have to credit him. Also of course I would like to give credit to jedec as well as they provide us the pdf with the information.
 	
 **Mouse**
 - https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
