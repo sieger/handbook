@@ -18,17 +18,17 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 **CPU**
 - If you are going to play games, **intel** is the way. Try to get best intel possible with non disabled core. For example 10850k is failed 10900k, 10700k is lower binned 10900k and 2 of its cores are disabled which will cause latency as well.
 - If you are rendering / modelling stuff, then you buy the highest core number possible, which will be AMD these days. But this is not our focus, so I will not talk about it again.
-- Uncore = Core
-- Disable all power saving features
+- Max uncore, preferable uncore=core.
+- Disable all power saving features.
 - Flat llc for lowest delay - aim for smallest delta.
-- Try not to leave anything auto
+- Try not to leave anything auto, especially voltage. 
 - Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees.
-- Check temps in game, should be max 60, after that intel hinders the performance
-- You can get Artic Freezer 420/360 as a good cpu fan
+- Check temps in game, should be max 60, after that intel hinders the performance.
+- You can get Artic Freezer 420/360 as a good cpu fan.
 - Learn delidding and use liquid metal instead of thermal paste. It will give you 6-18 degrees difference which is huge, direct delidding is the best option.
 
 **MOBO**
-- Most poeple just get the cheapest motherboard they can get, no, get the best motherboard you can get. Most probably you will want to use 2 dimm motherboard, they have much stronger VRMs, you can check it from [here](https://docs.google.com/spreadsheets/d/16YJm4L1-ohpL8s-4rLDDDCBZvi97ZYwkc44s7LS5-2Q). You should try to get the most PCB layer possible. Examples can be Asus Apex and EVGA Dark series. EVGA has the best quality pieces and really good OC capacity, but it has spread spectrum forced which will give you jitter. We are trying to get at least and option from EVGa to disable it at least in z590 board, but we will see. If we can do that, it would be one of the best motherboard available.
+- Most poeple just get the cheapest motherboard they can get, no, get the best motherboard you can get. Most probably you will want to use 2 dimm motherboard, they have much stronger VRMs, you can check it from [here](https://docs.google.com/spreadsheets/d/16YJm4L1-ohpL8s-4rLDDDCBZvi97ZYwkc44s7LS5-2Q). You should try to get the most PCB layer possible. Examples can be Asus Apex and EVGA Dark series. EVGA has the best quality pieces and really good OC capacity, but it has spread spectrum forced which ewill give you jitter. We are trying to get at least and option from EVGa to disable it at least in z590 board, but we will see. If we can do that, it would be one of the best motherboard available.
 - Try to use grub to change hidden values.
 - Use zipties and fans over VRM, Ram, PCH. 
 - Use liquid coollers because air fans will be too big for you to put more fans over the important parts of the motherboard, besides 360aios will give better results.
