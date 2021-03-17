@@ -35,7 +35,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 
 
 **RAM**
-- Thanks Λdam for becoming the source of inspiration and his notes. Some of these are directly from him, but all of them are tested by me and my friends as well.
+- Thanks Λdam for becoming the source of inspiration of these notes. Some of these are directly from him, but all of them are tested by me and my friends as well. Thus you should also never copy anything, test it.
 - Try not to get RGB, some of the top rams will have rgb because of marketting stuff, but still you can almost always find an alternatives. It will add heat and latency.
 - Try to get good bin b-die so that you can daily 1.5-1.6 easily, if you remove the heatsinks and put a fan on ram, you can go around 1.7-1.8V. The best bet is to get 14cm 3000 rpm noctua fans, use some zipties to fit the fan over rams.
 - Try to get a2 layout as its latency is the lowest. **A0** - 27.6, **A**1 - 19.73, **A2** - 13.13, **A3** - 13.67
