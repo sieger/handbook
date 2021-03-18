@@ -9,7 +9,7 @@
 - FURMAN AC-210A e power conditioner
 - 970 pro 1TB
 - 360hz pg259qn asus monitor
-- MSI 1080ti 
+- Evga Rtx 3080 FTW3 Ultra Hybrid 
 
 **Planned**
 - 11900k or 10900ks (depending on latency)
