@@ -71,6 +71,11 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Install it as MBR
 - Use Ntlite to debloat defender + bitlocker + superfetch
 - If you really need windows 10, try to make dual boot.
+- In general there are only few stuff you should do, you have to test them with min fps/smoothness. The ones makes the most differeeeence are:
+  - Disabling idle states
+  - Disabling unnecesary services [check here to what to disable](http://www.blackviper.com/service-configurations/)
+  - Remove/uninstall every single thing you dont use
+  - Changing Interrupt affinities so that processos wont go into single core.
 
 **Mini Games**
 - https://donttap.github.io/donttap/
