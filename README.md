@@ -62,6 +62,9 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Yes you can feel the difference between 1000hz and 8000hz. It is not beyong human eye capabilities. If you think it is, go and try. Same peope argued people cannot feel the difference between 120hz and 240hz, they even argued 60hz vs 120hz. There will always be these people.
 - Avoid wireless because of the interference. EMF, 4G, 5G, also wired has lower input latency.
 - Try to use 1600 dpi. The idea is to use highest dpi without smoothing, it will have better latency and smoother mouse movement.
+- If you are not happy with your cord, get [paracord](https://paracablemods.co.uk/).
+- Change your skatez often, tiger feet are one of the best.
+- You can use 0.5x0.5 inch copper heat spreader on the mice sensor. As all electronics, the cooler it is, the better they will perform. You can do this trick to anything you have, keyboard, GPU VRM, VRM, PCH, anywhere you can think of.
     
 **Monitor**
 - Because buying please check its input latency tests and try to get the most hz, lowest latency monitor. https://www.rtings.com/monitor/tools/table
