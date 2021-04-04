@@ -10,8 +10,7 @@
 - 970 pro 1TB
 - 360hz pg259qn asus monitor
 - Evga Rtx 3080 FTW3 Ultra Hybrid 
+- intel 10900kf - delidded
 
-**Planned**
-- 11900k or 10900ks (depending on latency)
-- rockit delid kid - direct die (with liquid metal)
+**Planned waiting for**
 - evga dark z590 
