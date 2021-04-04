@@ -3,7 +3,7 @@
 
 - Forget the games, why would you want a computer has a delay, why would you want to have a computer has bottlenecks?
 
-- Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 30 ping, it will be consistant and better. It is mostly about consistency, none of these will make you a pro, but you will have consistent environment to play at your best.
+- Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 20 ping, it will be consistant and better. It is mostly about consistency, none of these will make you a pro, but you will have consistent environment to play at your best.
 
 - I am not and will never be a tweaker, do not ask, I just love to learn and try these little things that are matter. And this is just my notebook, nothing special, I didnt invent these. There are just information I have gathered from other people and/or papers, lectures. I have only tested, and sharing what worked best.
 
