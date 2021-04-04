@@ -22,17 +22,19 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Disable all power saving features.
 - Flat llc for lowest delay - aim for smallest delta.
 - Try not to leave anything auto, especially voltage. 
-- Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees.
+- Manually adjust you Vcore to 1.35,
+- Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees. Its saying passed is not enough, residuals should all be same.
 - Check temps in game, should be max 60, after that intel hinders the performance.
 - You can get Artic Freezer 420/360 as a good cpu fan.
 - Learn delidding and use liquid metal instead of thermal paste. It will give you 6-18 degrees difference which is huge, direct delidding is the best option.
+- You can use [CoreTemp](https://www.alcpu.com/CoreTemp/), and edit *CoreTemp.ini* ReadInt=10, it will give you faster read, so that you can see sudden increases in the temp.
 
 **MOBO**
 - Most poeple just get the cheapest motherboard they can get, no, get the best motherboard you can get. Most probably you will want to use 2 dimm motherboard, they have much stronger VRMs, you can check it from [here](https://docs.google.com/spreadsheets/d/16YJm4L1-ohpL8s-4rLDDDCBZvi97ZYwkc44s7LS5-2Q). You should try to get the most PCB layer possible. Examples can be Asus Apex and EVGA Dark series. EVGA has the best quality pieces and really good OC capacity, but it has spread spectrum forced which ewill give you jitter. We are trying to get at least and option from EVGa to disable it at least in z590 board, but we will see. If we can do that, it would be one of the best motherboard available.
 - Try to use grub to change hidden values.
 - Use zipties and fans over VRM, Ram, PCH. 
 - Use liquid coollers because air fans will be too big for you to put more fans over the important parts of the motherboard, besides 360aios will give better results.
-
+- Bios guides you should follow: [fujitsu](https://sp.ts.fujitsu.com/dmsp/Publications/public/wp-bios-settings-primergy-ww-en.pdf) [Congatec](https://www.congatec.com/fileadmin/user_upload/Documents/Application_Notes/AN40_BIOS_Optimization_For_Real-time_Applications.pdf) [r0ach](https://www.overclock.net/threads/gaming-and-mouse-response-bios-optimization-guide-for-modern-pc-hardware.1433882/)
 
 **RAM**
 - Thanks Λdam for becoming the source of inspiration of these notes. Some of these are directly from him, but all of them are tested by me and my friends as well. Thus you should also never copy anything, test it.
@@ -71,7 +73,8 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Install it as MBR
 - Use Ntlite to debloat defender + bitlocker + superfetch
 - If you really need windows 10, try to make dual boot.
-- In general there are only few stuff you should do, you have to test them with min fps/smoothness. The ones makes the most differeeeence are:
+- Do not use custom OS. Just install stock one, then debloat/disable every single thing you dont use.
+- In general there are only few stuff you should do, you have to test them with min fps/smoothness. The ones makes the most difference are:
   - Disabling idle states
   - Disabling unnecesary services [check here to what to disable](http://www.blackviper.com/service-configurations/)
   - Remove/uninstall every single thing you dont use
