@@ -22,7 +22,6 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Disable all power saving features.
 - Flat llc for lowest delay - aim for smallest delta.
 - Try not to leave anything auto, especially voltage. 
-- Manually adjust you Vcore to 1.35,
 - Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees. Its saying passed is not enough, residuals should all be same.
 - Check temps in game, should be max 60, after that intel hinders the performance.
 - You can get Artic Freezer 420/360 as a good cpu fan.
