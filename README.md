@@ -16,8 +16,9 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 **FPS** is a _meme_, the most important one is smooth gaming and latency. So stop comparing FPS in games. You can compare %0.1 min fps with the delta from avg fps and thats it.
 
 **CPU**
-- If you are going to play games, **intel** is the way. Try to get best intel possible with non disabled core. For example 10850k is failed 10900k, 10700k is lower binned 10900k and 2 of its cores are disabled which will cause latency as well. 11th gen seems like really really bad with latency, and barely better than zen3 AMD for gaming. So right now best bet is to get 10900kf.
 - If you are rendering / modelling stuff, then you buy the highest core number possible, which will be AMD these days. But this is not our focus, so I will not talk about it again.
+- If you are going to play games, **intel** is the way. Try to get best intel possible with non disabled core. For example 10850k is failed 10900k, 10700k is lower binned 10900k and 2 of its cores are disabled which will cause latency as well. 
+- 11th gen seems like really really bad with latency, and barely better than zen3 AMD for gaming. So right now best bet is to get 10900kf.
 - Max uncore, preferable uncore=core.
 - Disable all power saving features.
 - Flat llc for lowest delay - aim for smallest delta.
