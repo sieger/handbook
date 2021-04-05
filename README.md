@@ -31,6 +31,8 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 
 **MOBO**
 - Most poeple just get the cheapest motherboard they can get, no, get the best motherboard you can get. Most probably you will want to use 2 dimm motherboard, they have much stronger VRMs, you can check it from [here](https://docs.google.com/spreadsheets/d/16YJm4L1-ohpL8s-4rLDDDCBZvi97ZYwkc44s7LS5-2Q). You should try to get the most PCB layer possible. Examples can be Asus Apex and EVGA Dark series. EVGA has the best quality pieces and really good OC capacity, but it has spread spectrum forced which ewill give you jitter. We are trying to get at least and option from EVGa to disable it at least in z590 board, but we will see. If we can do that, it would be one of the best motherboard available.
+- For me there are 2 alternatives for better OC, one is _Asus APEX_ series, they are mediocare with oc but can be fine for daily usage. Z490 Apex has problems with dual rank ram OC, it cannot do high freq with cr1. 
+- Better alternative is to get _EVGA Dark_ series, enabling hidden items with grub, it will outperform all other motherboards.
 - Try to use grub to change hidden values.
 - Use zipties and fans over VRM, Ram, PCH. 
 - Use liquid coollers because air fans will be too big for you to put more fans over the important parts of the motherboard, besides 360aios will give better results.
