@@ -1,7 +1,5 @@
 # Why you want to get the lowest latency #
-- AFPS is one of the game types you want to have fastest reaction time, as just in couple of seconds everything can change, you can loose map control,  you can loose one of the main items, and even you might loose the game. So having even a slightest advantage will give you an edge.
-
-- Forget the games, why would you want a computer has a delay, why would you want to have a computer has bottlenecks?
+- Why would you want a computer has a delay, why would you want to have a computer has bottlenecks? Forget all other reasons, gaming advantages, why would you want to use a computer slower than its potential?
 
 - Also optimized hardware / software will give you consistent feeling. Its like having a stable ping, if you sometimes have 10 ping, sometimes 70, you will loose it, your rails will not connect, you will always need to adjust your aim, but if you always have 20 ping, it will be consistant and better. It is mostly about consistency, none of these will make you a pro, but you will have consistent environment to play at your best.
 
