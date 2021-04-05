@@ -112,6 +112,7 @@ RAM:
 CPU:
 - Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/ mostly the only one you will ever need.
 - Prime95 Small FFTs: https://www.mersenne.org/download/
+- Firestarter: https://github.com/tud-zih-energy/FIRESTARTER/releases/tag/v2.0
 
 **Best to read and follow!**
 - Credits to tons of info from LAG server, Onur Mutlu lectures, bunch of science papers. 
