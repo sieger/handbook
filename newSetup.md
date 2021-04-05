@@ -3,7 +3,7 @@
 - 4x noctua 14cm 3000rpm fan (3 top intake - 1 back exhaust)
 - 6x noctua 12cm 3000 rpn fan (3 bottom intake - 1 pch, 1 ram, 1 vrm )
 - Artic freezer 420mm (front exhaust)
-- 1 Sata fan controller 
+- Phanteks Universal Fan Controller
 - 3600 14-15-15 1.45V 2x16 dr
 - Corsair ax1600i psu
 - FURMAN AC-210A e power conditioner
@@ -11,6 +11,7 @@
 - 360hz pg259qn asus monitor
 - Evga Rtx 3080 FTW3 Ultra Hybrid 
 - intel 10900kf - delidded
+- Intel Ethernet Adapter I210-T1
 
 **Planned waiting for**
 - evga dark z590 
