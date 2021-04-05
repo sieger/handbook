@@ -9,6 +9,8 @@ So here, I will try to give you some information and some sources, sources from 
 
 **Why latency matters, can you even feel it?**
 
+- FPS is a meme, the most important one is smooth gaming and latency. So stop comparing FPS in games. You can compare %0.1 min fps with the delta from avg fps and thats it.
+
 When people say you cannot feel couple of ms, it is like smaller than a second, you show them this.  And this is only a video, you will feel a lot better. https://www.youtube.com/watch?t=80&v=vOvQCPLkPt4 
 
 Here is a study by nvidia about the corrolation between latency and aim : https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/#why-does-system-latency-matter
