@@ -14,4 +14,4 @@
 - Intel Ethernet Adapter I210-T1
 
 **Planned waiting for**
-- evga dark z590 
+- evga dark z590 / z490
