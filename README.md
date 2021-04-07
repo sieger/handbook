@@ -118,7 +118,7 @@ CPU:
 - https://www.amazon.com/gp/product/B07NHQRCRM - Phanteks Universal Fan Controller
 - https://www.amazon.com/gp/product/B00I3Y0COE - Intel Ethernet Server Adapter I210T1
 - https://www.amazon.com/gp/product/B07R3JT86Q - Copper RAM/VGA Heatsink
-- https://www.amazon.com/gp/product/B08QMWFQ2H - USB Voltage Meter
+- https://www.amazon.com/gp/product/B07F5H2SYS - USB Voltage Meter
 - https://www.amazon.com/gp/product/B078T2R64C - EMF Meter
 - https://www.amazon.com/gp/product/B078J4PSHM - Thermal Grizzly Conductonaut
 
