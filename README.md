@@ -121,6 +121,7 @@ CPU:
 - https://www.amazon.com/gp/product/B07F5H2SYS - USB Voltage Meter
 - https://www.amazon.com/gp/product/B078T2R64C - EMF Meter
 - https://www.amazon.com/gp/product/B078J4PSHM - Thermal Grizzly Conductonaut
+- https://www.amazon.com/gp/product/B08FRPKNQL - EMF Blackout Beanie
 
 **Best to read and follow!**
 - Credits to tons of info from LAG server, Onur Mutlu lectures, bunch of science papers. 
