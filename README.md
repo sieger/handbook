@@ -7,7 +7,6 @@
 
 So here, I will try to give you some information and some sources, sources from my friends to get you started to the journey. And I will try not to comment on anything I havent tried / tested, so feel free to ask further questions.
 - [my twitter acc](https://twitter.com/siegerQL)  
-- **Sieger#5530** _discord_.
 
 **Why latency matters, can you even feel it?**
 
@@ -142,5 +141,5 @@ CPU:
 Tweaked/oced bios vs default xmp one
 ![fpsqc](/images/QCFPS.PNG)
 ![fps](/images/fps.PNG)
-
+Mouse input default vs optimized.
 ![base](/images/mice.png) ![tweaked](/images/micetweaked.png)
