@@ -91,7 +91,6 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - https://qqwref.github.io/schulte/
 - https://schulte-table.com/
 - http://www.aimbooster.com/
-- https://dwlim.github.io/apmtest/
 
 **Programs**
 - MLC: https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip
@@ -142,4 +141,5 @@ CPU:
 Tweaked/oced bios vs default xmp one
 ![fpsqc](/images/QCFPS.PNG)
 ![fps](/images/fps.PNG)
+
 ![base](/images/mice.png) ![tweaked](/images/micetweaked.png)
