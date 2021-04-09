@@ -70,7 +70,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - You can use 0.5x0.5 inch copper heat spreader on the mice sensor. As all electronics, the cooler it is, the better they will perform. You can do this trick to anything you have, keyboard, GPU VRM, VRM, PCH, anywhere you can think of.
     
 **Monitor**
-- Because buying please check its input latency tests and try to get the most hz, lowest latency monitor. https://www.rtings.com/monitor/tools/table
+- Before buying please check its input latency tests and try to get the most hz, lowest latency monitor. https://www.rtings.com/monitor/tools/table
 - Try to limit fps in game, and check for the feeling, some games benefit from fps limit some dont. For example CSGO is worse with fps locked. Quake champions give worse latency with FPS locked, Apex is best when you lock it at 180fps.
     
 **OS**
