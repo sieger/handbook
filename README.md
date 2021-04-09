@@ -6,8 +6,8 @@
 - I am not and will never be a tweaker, do not ask, I just love to learn and try these little things that are matter. And this is just my notebook, nothing special, I didnt invent these. There are just information I have gathered from other people and/or papers, lectures. I have only tested, and sharing what worked best.
 
 So here, I will try to give you some information and some sources, sources from my friends to get you started to the journey. And I will try not to comment on anything I havent tried / tested, so feel free to ask further questions.
-- [_my twitter acc_](https://twitter.com/siegerQL)  
-- Sieger#5530 _discord_.
+- [my twitter acc](https://twitter.com/siegerQL)  
+- **Sieger#5530** _discord_.
 
 **Why latency matters, can you even feel it?**
 
