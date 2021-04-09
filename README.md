@@ -74,6 +74,11 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Before buying please check its input latency tests and try to get the most hz, lowest latency monitor. https://www.rtings.com/monitor/tools/table
 - Try to limit fps in game, and check for the feeling, some games benefit from fps limit some dont. For example CSGO is worse with fps locked. Quake champions give worse latency with FPS locked, Apex is best when you lock it at 180fps.
     
+**Physical Setup**
+- Learn about EMI - Electromagneric interfrerence , and find some kind of EMF meter, you can see a avarage good one in the shopping list below.	
+- You can find more information [here](https://github.com/djdallmann/GamingPCSetup/blob/master/CONTENT/RESEARCH/ELECTRICAL/README.md#electrical)
+- Read [this](http://www.turkishneurosurgery.org.tr/pdf/pdf_JTN_1219.pdf) experiment, watch [this](https://www.bitchute.com/video/lCIAcZov5Hs/) documentary and then when you are into it, you can search for the effects of Wi-fi yo human brain and health. 	
+	
 **OS**
 - Use Windows 7, even stock Win7 is a lot better than optimized windows 10.
 - Install it as MBR
@@ -121,7 +126,7 @@ CPU:
 - https://www.amazon.com/gp/product/B07F5H2SYS - USB Voltage Meter
 - https://www.amazon.com/gp/product/B078T2R64C - EMF Meter
 - https://www.amazon.com/gp/product/B078J4PSHM - Thermal Grizzly Conductonaut
-- https://www.amazon.com/gp/product/B08FRPKNQL - EMF Blackout Beanie
+- https://www.amazon.com/gp/product/B08FRPKNQL - EMF Blackout Beanie 
 
 **Best to read and follow!**
 - Credits to tons of info from LAG server, Onur Mutlu lectures, bunch of science papers. 
