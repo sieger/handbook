@@ -99,7 +99,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - http://www.aimbooster.com/
 
 **Programs**
-- MLC: [3.8 for win7](https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip) [3.9 for win10](https://cdn.discordapp.com/attachments/784503582716198912/830419883543887903/mlc_v3.9.tar)
+- MLC: [3.8 for win7](https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip) - [3.9 for win10](https://cdn.discordapp.com/attachments/784503582716198912/830419883543887903/mlc_v3.9.tar)
 - MouseTester: https://cdn.discordapp.com/attachments/784503582716198912/784507149535281182/Mouse_Polling_Test.zip
 - Ntlite: https://www.ntlite.com/
 - Overclock mice: https://github.com/LordOfMice/hidusbf
