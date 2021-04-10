@@ -77,13 +77,14 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 **Physical Setup**
 - Learn about EMI - Electromagneric interfrerence , and find some kind of EMF meter, you can see a avarage good one in the shopping list below.	
 - You can find more information [here](https://github.com/djdallmann/GamingPCSetup/blob/master/CONTENT/RESEARCH/ELECTRICAL/README.md#electrical)
-- Read [this](http://www.turkishneurosurgery.org.tr/pdf/pdf_JTN_1219.pdf) experiment, watch [this](https://www.bitchute.com/video/lCIAcZov5Hs/) documentary and then when you are into it, you can search for the effects of Wi-fi yo human brain and health. 	
+- Read [this](http://www.turkishneurosurgery.org.tr/pdf/pdf_JTN_1219.pdf) experiment, watch [this](https://www.bitchute.com/video/lCIAcZov5Hs/) documentary and then when you are into it, you can search for the effects of Wi-fi yo human brain and health. Then you might consider EMF Blackout Beanie in the shopping list. Yeah its kind of tinfoil hat, and yeah in that case, it works, you want it to work, just to protect your brain from melting. Example? When you talk with your phone like more than 60 seconds, you can feel it right? Like your ear, your brain feels weird, yep thats it.
+- That is why do not use 4G, WIFI. If you have to use your phone use it with headphones(not wireless, bluetooth is actually worse).
 	
 **OS**
 - Use Windows 7, even stock Win7 is a lot better than optimized windows 10.
 - Install it as MBR
 - Use Ntlite to debloat defender + bitlocker + superfetch
-- If you really need windows 10, try to make dual boot.
+- If you really need windows 10, try to make dual boot, and play games on win7, use bloat stuff on win10.
 - Do not use custom OS. Just install stock one, then debloat/disable every single thing you dont use.
 - In general there are only few stuff you should do, you have to test them with min fps/smoothness. The ones makes the most difference are:
   - Disabling idle states
@@ -102,7 +103,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - MLC: [3.8 for win7](https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip) - [3.9 for win10](https://cdn.discordapp.com/attachments/784503582716198912/830419883543887903/mlc_v3.9.tar)
 - MouseTester: https://cdn.discordapp.com/attachments/784503582716198912/784507149535281182/Mouse_Polling_Test.zip
 - Ntlite: https://www.ntlite.com/
-- Overclock mice: https://github.com/LordOfMice/hidusbf
+- Overclock mice to 1000hz: https://github.com/LordOfMice/hidusbf
 - Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer, settings: https://raw.githubusercontent.com/BoringBoredom/PC-Optimization-Hub/main/content/windows/process%20explorer%20settings.reg
 
 **Stress Testing**
