@@ -24,7 +24,8 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - Disable all power saving features.
 - Flat llc for lowest delay - aim for smallest delta.
 - Try not to leave anything auto, especially voltage. 
-- Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees. Its saying passed is not enough, residuals should all be same.
+- Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees. Its saying passed is not enough, residuals should all be same. 
+- To be sure about stability of the test, use Firestarter for more than 24 hours, 48 is kind if fine, 96 is required. Max temp should be 70 degrees. Then you are good to go.
 - Check temps in game, should be max 60, after that intel hinders the performance.
 - You can get Artic Freezer 420/360 as a good cpu fan.
 - Learn delidding and use liquid metal instead of thermal paste. It will give you 6-18 degrees difference which is huge, direct delidding is the best option.
@@ -123,7 +124,7 @@ RAM:
 CPU:
 - Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/ mostly the only one you will ever need.
 - Prime95 Small FFTs: https://www.mersenne.org/download/
-- Firestarter: https://github.com/tud-zih-energy/FIRESTARTER/releases/tag/v2.0
+- Firestarter: https://github.com/tud-zih-energy/FIRESTARTER/releases/tag/v2.0  `FIRESTARTER-windows -r -i 22 --set-line-count 4096`
 
 **Shopping List**
 - https://www.amazon.com/gp/product/B07NHQRCRM - Phanteks Universal Fan Controller
