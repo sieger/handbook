@@ -6,7 +6,7 @@
 - I am not and will never be a tweaker, do not ask, I just love to learn and try these little things that are matter. And this is just my notebook, nothing special, I didnt invent these. There are just information I have gathered from other people and/or papers, lectures. I have only tested, and sharing what worked best.
 
 So here, I will try to give you some information and some sources, sources from my friends to get you started to the journey. And I will try not to comment on anything I havent tried / tested, so feel free to ask further questions.
-- [my twitter acc](https://twitter.com/siegerQL)  
+- [λ my twitter ACC](https://twitter.com/siegerQL)  
 
 **Why latency matters, can you even feel it?**
 
@@ -96,7 +96,7 @@ Here is a study by nvidia about the corrolation between latency and aim : https:
 - look at the center plus, but follow the changing colors: https://www.youtube.com/watch?v=uJ9fyOkJFfc
 - Read [this](http://www.turkishneurosurgery.org.tr/pdf/pdf_JTN_1219.pdf) experiment, watch [this](https://www.bitchute.com/video/lCIAcZov5Hs/) documentary and then when you are into it, you can search for the effects of Wi-fi yo human brain and health. Then you might consider EMF Blackout Beanie in the shopping list. Yeah its kind of tinfoil hat, and yeah in that case, it works, you want it to work, just to protect your brain from melting. Example? When you talk with your phone like more than 60 seconds, you can feel it right? Like your ear, your brain feels weird, yep thats it.
 - That is why do not use 4G, WIFI. If you have to use your phone use it with headphones(not wireless, bluetooth is actually worse).
-
+- Get Vitamin A, C, D, Zinc, Magnesium, Melatonin, reishi mushroom, iodine.
 
 **Mini Games**
 - https://schulte-table.com/
