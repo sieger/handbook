@@ -4,12 +4,12 @@
 - 6x noctua 12cm 3000 rpn fan (3 bottom intake - 1 pch, 1 ram, 1 vrm )
 - Artic freezer 420mm (front exhaust)
 - Phanteks Universal Fan Controller
-- 3600 14-15-15 1.45V 2x16 dr
+- 4000 cl16-16-16-36 2x16 DR ram
 - Corsair ax1600i psu
 - FURMAN AC-210A e power conditioner
 - 970 pro 1TB
 - 360hz pg259qn asus monitor
-- Evga Rtx 3080 FTW3 Ultra Hybrid 
+- Asus 6800xt LC
 - intel 10900kf - delidded
 - Intel Ethernet Adapter I210-T1
 
