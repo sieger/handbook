@@ -1,7 +1,7 @@
 **Ready**
 - Phanteks Enthoo Pro 2 - not tempered glass one
-- 4x noctua 14cm 3000rpm fan (3 top intake - 1 back exhaust)
-- 6x noctua 12cm 3000 rpn fan (3 bottom intake - 1 pch, 1 ram, 1 vrm )
+- 2x noctua 14cm 3000rpm fan (2 top intake)
+- 5x noctua 12cm 3000 rpn fan (3 bottom intake - 1 ram, 1 vrm )
 - Artic freezer 420mm (front exhaust)
 - Phanteks Universal Fan Controller
 - 4000 cl16-16-16-36 2x16 DR ram
