@@ -6,6 +6,7 @@
 - I am not and will never be a tweaker, do not ask, I just love to learn and try these little things that are matter. And this is just my notebook, nothing special, I didnt invent these. There are just information I have gathered from other people and/or papers, lectures. I have only tested, and sharing what worked best.
 
 So here, I will try to give you some information and some sources, sources from my friends to get you started to the journey. And I will try not to comment on anything I havent tried / tested, so feel free to ask further questions.
+
 - [λ my twitter ACC](https://twitter.com/siegerQL)  
 
 **Why latency matters, can you even feel it?**
@@ -44,7 +45,7 @@ For the smoothest gameplay, you want consistent FPS with no drops.
 
 To explain the "no disabled cores," the 10850k is a failed 10900k, and the 10700k is an even more failed 10900k. The 10700k also has 2 of its cores disabled, which causes latency as well. Because the information has to jump over these disabled cores.
 
--  hen overclocking your cpu, the goal is to have your Core equal to your Uncore (core/ring or core/uncore, they are all the same thing.)
+-  When overclocking your cpu, the goal is to have your Core equal to your Uncore (core/ring or core/uncore, they are all the same thing.)
 Next, make sure to disable all power saving features
 .  Power saving features put the CPU aka CPU C-States
 .  Memory States
