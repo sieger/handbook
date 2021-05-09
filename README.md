@@ -14,22 +14,59 @@ When people say you cannot feel couple of ms, it is like smaller than a second, 
 
 Here is a study by nvidia about the corrolation between latency and aim : https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/#why-does-system-latency-matter
 
-**FPS** is a _meme_, the most important one is smooth gaming and latency. So stop comparing FPS in games. You can compare %0.1 min fps with the delta from avg fps and thats it.
+**FPS**
+Frames per second are a meme.
+The most important metric is latency. Lower latency results in smoother feeling gameplay. Please stop comparing FPS in games. It is near meaningless.
+
+The only facet of FPS that's releveant is 0.1% minimum fps.
+
+Compare your 0.1% against the delta from your average fps and thats it. The delta means the difference between average fps and your 0.1% fps. The more the gap is, the worse your smoothness will be.
+
+The reason hardware reviewers focus on FPS is because the market is programming you - the consumer -  to only care about frames since they are so easy to inflate. Also these reviewers are not capable of measuring what is important.
+
+Overall, FPS means nothing. You shouldn't about your FPS and instead you should be concerned about your system's latency. You can "cheese" FPS by just increasing "pre rendered frames."  Sure, this will increase your framerate, but at the expense of your games feeling responsive.
+
+The goal is to have the lowest latency and the smoothest gameplay experience so you can dominate your opponents before they even know what happened.
+
+***Latency***
+Latency is the time delay between the cause and the effect of some physical change in the system being observed.
+
+An example is the delay between your mouse movements and clicks versus when they appear on your screen.
+
+For the smoothest gameplay, you want consistent FPS with no drops.
+
+**here are some important tips for low latency hardware**
 
 **CPU**
-- If you are rendering / modelling stuff, then you buy the highest core number possible, which will be AMD these days. But this is not our focus, so I will not talk about it again.
-- If you are going to play games, **intel** is the way. Try to get best intel possible with non disabled core. For example 10850k is failed 10900k, 10700k is lower binned 10900k and 2 of its cores are disabled which will cause latency as well. 
-- 11th gen seems like really really bad with latency, and barely better than zen3 AMD for gaming. So right now best bet is to get 10900kf.
-- Max uncore, preferable uncore=core.
-- Disable all power saving features.
-- Flat llc for lowest delay - aim for smallest delta.
-- Try not to leave anything auto, especially voltage. 
-- Always check temperatures, try to test cpu stability with bootable linpack, 1-4 hours should be enough and your max cpu temp should be 80 degrees. Its saying passed is not enough, residuals should all be same. 
-- To be sure about stability of the test, use Firestarter for more than 24 hours, 48 is kind if fine, 96 is required. Max temp should be 70 degrees. Then you are good to go.
-- Check temps in game, should be max 60, after that intel hinders the performance.
-- You can get Artic Freezer 420/360 as a good cpu fan.
-- Learn delidding and use liquid metal instead of thermal paste. It will give you 6-18 degrees difference which is huge, direct delidding is the best option.
-- You can use [CoreTemp](https://www.alcpu.com/CoreTemp/), and edit *CoreTemp.ini* `ReadInt=10`, it will give you faster read, so that you can see sudden increases in the temp.
+- As of right now [5/3/21] Intel is the way for any serious gamer, and this is because the architecture allows for lower ram latencies.
+
+- Try to get best intel possible with no disabled cores. The 10900kf(https://amzn.to/3gZMGuQ) is the obvious choice for now.
+
+To explain the "no disabled cores," the 10850k is a failed 10900k, and the 10700k is an even more failed 10900k. The 10700k also has 2 of its cores disabled, which causes latency as well. Because the information has to jump over these disabled cores.
+
+-  hen overclocking your cpu, the goal is to have your Core equal to your Uncore (core/ring or core/uncore, they are all the same thing.)
+Next, make sure to disable all power saving features
+.  Power saving features put the CPU aka CPU C-States
+.  Memory States
+.  PCI-e states
+
+This link by intel explains it 
+https://software.intel.com/content/www/us/en/develop/articles/optimizing-computer-applications-for-latency-part-2-tuning-applications.html
+
+- Make sure to choose your LLC.
+Use Flatine LLC.  It has the lowest delay.  Aim for smallest delta.
+You will need oscilloscope to measure the instant drops.  Hwinfo is able to show you the ups and downs but not split second ones.
+
+- Try not to leave any BIOS settings on Auto.
+
+- Always check temperatures. Temperatures are very important.
+Temps in game, should be max 60, after that intel hinders the performance 
+
+It is mandatory to test cpu stability with bootable linpack for 1-4 hours and your max cpu temp should be 80 degrees.  The residuals must also match, if they don't match this means it is not stable. For the cpu cooler only buy Artic Freezer 420(here: https://amzn.to/3nM4J8Q) 360(here: https://amzn.to/2QVedme)
+
+- Learn delidding and use liquid metal thermal paste (https://amzn.to/3f6vtgL). This will give you between 6-18 degrees difference, which is huge!!!
+
+- **CoreTemp**, and edit *CoreTemp.ini* with any text editor ReadInt=10, it will give you faster read, so that you can see sudden increases in the temp.
 
 **MOBO**
 - Most poeple just get the cheapest motherboard they can get, no, get the best motherboard you can get. Most probably you will want to use 2 dimm motherboard, they have much stronger VRMs, you can check it from [here](https://docs.google.com/spreadsheets/d/16YJm4L1-ohpL8s-4rLDDDCBZvi97ZYwkc44s7LS5-2Q). You should try to get the most PCB layer possible. 
