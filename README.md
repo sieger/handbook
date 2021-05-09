@@ -54,6 +54,8 @@ Next, make sure to disable all power saving features
 This link by intel explains it 
 https://software.intel.com/content/www/us/en/develop/articles/optimizing-computer-applications-for-latency-part-2-tuning-applications.html
 
+![1Nvs2N](/power-saving_faq.png)
+
 - Make sure to choose your LLC.
 Use Flatine LLC.  It has the lowest delay.  Aim for smallest delta.
 You will need oscilloscope to measure the instant drops.  Hwinfo is able to show you the ups and downs but not split second ones.
