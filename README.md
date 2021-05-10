@@ -80,22 +80,28 @@ It is mandatory to test cpu stability with bootable linpack for 1-4 hours and yo
 - Try to use grub to change hidden values. _Hide Item | VarOffset: 0xA0C, Varstore: Setup (0x1)_ 
 - Use zipties and fans over VRM, Ram, PCH. 
 - Use liquid coollers because air fans will be too big for you to put more fans over the important parts of the motherboard, besides 360aios will give better results.
-- Bios guides you should follow: [fujitsu](https://sp.ts.fujitsu.com/dmsp/Publications/public/wp-bios-settings-primergy-ww-en.pdf), [Congatec](https://www.congatec.com/fileadmin/user_upload/Documents/Application_Notes/AN40_BIOS_Optimization_For_Real-time_Applications.pdf), [r0ach](https://www.overclock.net/threads/gaming-and-mouse-response-bios-optimization-guide-for-modern-pc-hardware.1433882/)
+- Bios guides you should follow: [fujitsu](https://sp.ts.fujitsu.com/dmsp/Publications/public/wp-bios-settings-primergy-ww-en.pdf), [Congatec](https://www.congatec.com/fileadmin/user_upload/Documents/Application_Notes/AN40_BIOS_Optimization_For_Real-time_Applications.pdf), [r0ach](https://www.overclock.net/threads/gaming-and-mouse-response-bios-optimization-guide-for-modern-pc-hardware.1433882/) 
+
+The logic is always similar with any hardware or software: 
+- Disable all of the power savings
+- Disable all of the auto stuff
+- Disable whatever you dont use
 
 **RAM**
 - Thanks Λdam for becoming the source of inspiration of these notes. Some of these are directly from him, but all of them are tested by me and my friends as well. Thus you should also never copy anything, test it.
-- Try not to get RGB, some of the top rams will have rgb because of marketting stuff, but still you can almost always find an alternatives. It will add heat and latency.
-- Try to get good bin b-die so that you can daily 1.5-1.6 easily, if you remove the heatsinks and put a fan on ram, you can go around 1.7-1.8V. The best bet is to get 14cm 3000 rpm noctua fans, use some zipties to fit the fan over rams.
+- Try not to get RGB, some of the top rams will have rgb because of marketting stuff, but still you can almost always find an alternatives. It will add heat and latency. And as you know are pursuing low latency and lower heat. Most of the electronics works best at ambient temperature, so our aim is to make them as cool as possible.
+- Try to get good bin b-die so that you can daily 1.5-1.6 easily. 
 - Try to get a2 layout as its latency is the lowest. **A0** - 27.6, **A**1 - 19.73, **A2** - 13.13, **A3** - 13.67
-- Try to get dual rank if your motherboard is good enough, which will be 2x16 rams right now. They are going to give you around 14% better results than single ranks with all other things same. Of course single rank can get better oc results, but even with worse timings, Dual Rank will feel smoother.
-- For dual rank: **3600 14-15-15 1.45v**, **3200 14-14-14 1.35** and **4000 16-16-16-36 1.4V** are the ones I have tested and performed really well.
-- For single rank: The one I can suggest most is **gskill 3600 15-15-15 1.35V**, It has really great OC potential, right now I am using this kit 4100-15-15 cr1
-- Use cr1
-- Max tREFI
-- Min tRFC
+![Ram layouts](images/98078709_1517832925065721_1641485618053644288_n.jpg)
+- Dual-rank DIMMs offer better interleaving and hence better performance than single-rank DIMMs. Thus get dual rank if your motherboard is good enough, which will be 2x16 rams right now. They are going to give you around 14% better results than single ranks with all other things same. Of course single rank can get better oc results, but even with worse timings, Dual Rank will feel smoother. Dual-rank DIMMs offer better interleaving and hence better performance than single-rank DIMMs.
+- Use Command Rate 1, and disable Command Rate support, it is kind of fake Command rate, you see it as 1, but actually it works like 2.
+![Ram layouts](images/1N.png)
+- Max tREFI and Min tRFC. In simple terms, tREFI is the amount of the the doors will be open, like how many people will get through in certain amount of time. So the more it will be, the better performance you will get out of it. tRFC is like the resting time when you close the doors, so the lower it gets, the better it is. But of course making these changes will get your ram hot, so again, removing heat spreaders and using active fan will be the solution.
 - tRCD is a lot more important than tCL 
+- From the source [here](https://people.inf.ethz.ch/omutlu/pub/chargecache_low-latency-dram_hpca16.pdf) and the picture below you can see the values that actually matters. Most of the time companies advertise tCL value, which is important but tRCD as you see is a lot more important. So when buying a ram or overclocking it, you have to prioritize tRCD over tCL.
+
+![tRCD](images/4d00ZUp.png)
 - try to lower iols to 3-5, and they should be max 1 point different than other one. In some cases they might be only at 6, it is fine. And use as high RTLs as possible without them iols wont matter much.
-- tRTP = tWR, this is not for latency but the stability and mouse feeling. This needs to be tested as tWR actually doesnt really exist.
 - remove your spreaders 
   - [strip front side](https://streamable.com/lmczh0)
   - [strip back side](https://streamable.com/vo9l2z)
@@ -103,6 +109,14 @@ It is mandatory to test cpu stability with bootable linpack for 1-4 hours and yo
 - Before going into windows, *MemTest86* to do your preliminary tests. Because having unstable ram might corrupt your OS.
 - Only test with intel memory latency checker. mlc. simple command can be `mlc --loaded_latency -t10`. and run it as admin. Do not use aida for ram tests. It is like using idle latency in mlc.
 - Testing for only 1 day will not be enough, Try different programs overnight for couple of days. After all tests are done you can say it is safe to run these numbers.
+
+**For dual rank:**
+- **Gskill 3600 14-15-15 1.45v** 
+- **Gskill 3200 14-14-14 1.35**
+- **Gskill 4000 16-16-16-36 1.4V**
+
+**For single rank:** 
+- **Gskill 3600 15-15-15 1.35V**
 	
 **Mouse**
 - https://www.youtube.com/watch?t=540&v=gOQNRvJbpmk& try to get most pooling rate possible
@@ -139,13 +153,6 @@ It is mandatory to test cpu stability with bootable linpack for 1-4 hours and yo
 - Read [this](http://www.turkishneurosurgery.org.tr/pdf/pdf_JTN_1219.pdf) experiment, watch [this](https://www.bitchute.com/video/lCIAcZov5Hs/) documentary and then when you are into it, you can search for the effects of Wi-fi yo human brain and health. Then you might consider EMF Blackout Beanie in the shopping list. Yeah its kind of tinfoil hat, and yeah in that case, it works, you want it to work, just to protect your brain from melting. Example? When you talk with your phone like more than 60 seconds, you can feel it right? Like your ear, your brain feels weird, yep thats it.
 - That is why do not use 4G, WIFI. If you have to use your phone use it with headphones(not wireless, bluetooth is actually worse).
 - Get Vitamin A, C, D, Zinc, Magnesium, Melatonin, reishi mushroom, iodine.
-
-**Mini Games**
-- https://schulte-table.com/
-- https://qqwref.github.io/schulte/
-- https://donttap.github.io/donttap/
-- https://dphdmn.github.io/ballsheet/
-- http://www.aimbooster.com/
 
 **Programs**
 - MLC: [3.8 for win7](https://cdn.discordapp.com/attachments/784503582716198912/784507138608201748/mlc.zip) - [3.9 for win10](https://cdn.discordapp.com/attachments/784503582716198912/830419883543887903/mlc_v3.9.tar)
