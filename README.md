@@ -100,7 +100,7 @@ The logic is always similar with any hardware or software:
 - tRCD is a lot more important than tCL 
 - From the source [here](https://people.inf.ethz.ch/omutlu/pub/chargecache_low-latency-dram_hpca16.pdf) and the picture below you can see the values that actually matters. Most of the time companies advertise tCL value, which is important but tRCD as you see is a lot more important. So when buying a ram or overclocking it, you have to prioritize tRCD over tCL.
 
-![tRCD](images/4d00ZUp.png)
+![tRCD](images/trcd.png)
 - try to lower iols to 3-5, and they should be max 1 point different than other one. In some cases they might be only at 6, it is fine. And use as high RTLs as possible without them iols wont matter much.
 - remove your spreaders 
   - [strip front side](https://streamable.com/lmczh0)
