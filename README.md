@@ -15,9 +15,9 @@ When people say you cannot feel couple of ms, it is like smaller than a second, 
 
 Here is a study by nvidia about the corrolation between latency and aim : https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/#why-does-system-latency-matter
 
-**FPS**
+***Frames Per Second***
 
-Frames per second are a meme.
+FPS are a meme.
 The most important metric is latency. Lower latency results in smoother feeling gameplay. Please stop comparing FPS in games. It is near meaningless.
 
 The only facet of FPS that's releveant is 0.1% minimum fps.
@@ -31,13 +31,14 @@ Overall, FPS means nothing. You shouldn't about your FPS and instead you should 
 The goal is to have the lowest latency and the smoothest gameplay experience so you can dominate your opponents before they even know what happened.
 
 ***Latency***
+
 Latency is the time delay between the cause and the effect of some physical change in the system being observed.
 
 An example is the delay between your mouse movements and clicks versus when they appear on your screen.
 
 For the smoothest gameplay, you want consistent FPS with no drops.
 
-**here are some important tips for low latency hardware**
+**Here are some important tips for low latency hardware**
 
 **CPU**
 - As of right now [5/3/21] Intel is the way for any serious gamer, and this is because the architecture allows for lower ram latencies.
