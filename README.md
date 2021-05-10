@@ -16,6 +16,7 @@ When people say you cannot feel couple of ms, it is like smaller than a second, 
 Here is a study by nvidia about the corrolation between latency and aim : https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/#why-does-system-latency-matter
 
 **FPS**
+
 Frames per second are a meme.
 The most important metric is latency. Lower latency results in smoother feeling gameplay. Please stop comparing FPS in games. It is near meaningless.
 
