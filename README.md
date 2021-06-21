@@ -171,9 +171,11 @@ RAM:
 - MemTest86 (before going into windows): https://www.memtest86.com/
 
 CPU:
-- Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/ mostly the only one you will ever need.
+- Linx: https://hwtips.tistory.com/1611 only one you need, run it for around 1-4 hours. All residuals must match. CPU temp should be 80 max.
+- Firestarter: https://github.com/tud-zih-energy/FIRESTARTER/releases/tag/v2.0  run it for around 24-48 hours.
+- Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/ test from linux.
 - Prime95 Small FFTs: https://www.mersenne.org/download/
-- Firestarter: https://github.com/tud-zih-energy/FIRESTARTER/releases/tag/v2.0  `FIRESTARTER-windows -r -i 22 --set-line-count 4096`
+
 
 **Shopping List**
 - https://www.amazon.com/gp/product/B07NHQRCRM - Phanteks Universal Fan Controller
