@@ -111,8 +111,7 @@ The logic is always similar with any hardware or software:
 - Testing for only 1 day will not be enough, Try different programs overnight for couple of days. After all tests are done you can say it is safe to run these numbers.
 
 **For dual rank:**
-- **Gskill 3600 14-15-15 1.45v** 
-- **Gskill 3200 14-14-14 1.35**
+- **Gskill 4000 14-15-15 1.45v** 
 - **Gskill 4000 16-16-16-36 1.4V**
 
 **For single rank:** 
