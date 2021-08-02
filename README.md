@@ -112,7 +112,7 @@ The logic is always similar with any hardware or software:
 
 **For dual rank:**
 - **Gskill 4000 14-15-15 1.45v** 
-- **Gskill 4000 16-16-16-36 1.4V**
+- **Gskill 3800 14-16-16-36 1.5V**
 
 **For single rank:** 
 - **Gskill 3600 15-15-15 1.35V**
@@ -163,17 +163,16 @@ The logic is always similar with any hardware or software:
 **Stress Testing**
 
 RAM:
-- Karhu: https://www.karhusoftware.com/ramtest/
-- TM5: https://testmem.tz.ru/testmem5.htm  extreme@anta777 config https://bit.ly/2MUvl6n
-- HCI: https://hcidesign.com/memtest/ 
-- Prime95 Large FFTs: https://www.mersenne.org/download/
-- MemTest86 (before going into windows): https://www.memtest86.com/
+- MemTest86 (before going into windows): https://www.memtest86.com/ : Use 6th test 20 pass. If it is fine, then you can change other values and you can be almost sure your oc is most probably stable. And you can go into windows.
+- Karhu: https://www.karhusoftware.com/ramtest/ Do this couple of nights just to be sure.
 
 CPU:
-- Linx: https://hwtips.tistory.com/1611 only one you need, run it for around 1-4 hours. All residuals must match. CPU temp should be 80 max.
-- Firestarter: https://github.com/tud-zih-energy/FIRESTARTER/releases/tag/v2.0  run it for around 24-48 hours.
-- Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/ test from linux.
-- Prime95 Small FFTs: https://www.mersenne.org/download/
+- Linpack Xtreme: https://www.techpowerup.com/download/linpack-xtreme/ test from linux. There are couple of things to consider.
+ - First make your **core/uncore 35**, and check Gflops with **35000 problem size**. And check the biggest **delta** between the passes.
+ - Change the problem size to 35000.
+ - Temps should never ever exceed **80 degrees**.
+ - Residuals should ALWAYS match, even 1 of 100 passes doesnt match, your cpu is not stable.
+ - Check Gflops, the delta should be same as the first test you have done with stock settings. You can multiply it with the speed, eg. when you are doing the test with 35core, if it Gflops is 200 and delta is 0.6, then if your Gflops is 500 with the oced cpu, then the delta can be 1.5, not more.
 
 
 **Shopping List**
