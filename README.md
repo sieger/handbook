@@ -193,7 +193,7 @@ CPU:
 - [OS optimization by timecard](https://github.com/djdallmann/GamingPCSetup)  
 - [Felipe's tweaking discord](https://discord.gg/F6WBqRHqgs)
 - [Importance of Ram oc by Kingfaris](https://kingfaris.co.uk/ram)  
-- [Ram OC guide by Integralfx](https://github.com/integralfx/MemTestHelper/blob/master/DDR4%20OC%20Guide.md)
+- [Ram OC guide by Integralfx](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
 
 **Some Proof**
 
