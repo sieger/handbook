@@ -1,8 +1,8 @@
 
 **Main Components**
-- ASRock z590 OC Formula
+- Asus z490 Apex
 - Intel 10900kf delided
-- Evga 3090 Kp
+- Asus 6900xt
 - gskill 4000-cl14-15 2x16 
 - Samsung 970 Pro 1TB
 - Corsair ax1600i PSU
